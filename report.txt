@@ -1,0 +1,2 @@
+the current average is
+3.3573127400762144
